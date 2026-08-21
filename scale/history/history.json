@@ -1,41 +1,41 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T18:17:47.246Z",
+  "updatedAt": "2026-08-21T19:10:14.330Z",
   "latest": {
     "dataThrough": "2026-08-21",
     "label": "Aug 21, 2026",
-    "url": "https://avani-media.github.io/Report-Scale-Computing/?access=__AVANI_ACCESS__"
+    "url": "https://reports.avanimedia.com/scale/?access=__AVANI_ACCESS__"
   },
   "reports": [
     {
       "dataThrough": "2026-08-21",
       "label": "Aug 21, 2026",
-      "path": "history/2026-08-21/index.html",
-      "url": "https://avani-media.github.io/Report-Scale-Computing/history/2026-08-21/?access=__AVANI_ACCESS__",
+      "path": "scale/history/2026-08-21/index.html",
+      "url": "https://reports.avanimedia.com/scale/history/2026-08-21/?access=__AVANI_ACCESS__",
       "publishedAt": "2026-08-21T18:17:47.246Z",
       "title": "Scale Computing Unified Campaign Intelligence Report"
     },
     {
       "dataThrough": "2026-08-19",
       "label": "Aug 19, 2026",
-      "path": "history/2026-08-19/index.html",
-      "url": "https://avani-media.github.io/Report-Scale-Computing/history/2026-08-19/?access=__AVANI_ACCESS__",
+      "path": "scale/history/2026-08-19/index.html",
+      "url": "https://reports.avanimedia.com/scale/history/2026-08-19/?access=__AVANI_ACCESS__",
       "publishedAt": "2026-08-21T18:16:39.483Z",
       "title": "Scale Computing Unified Campaign Intelligence Report"
     },
     {
       "dataThrough": "2026-08-14",
       "label": "Aug 14, 2026",
-      "path": "history/2026-08-14/index.html",
-      "url": "https://avani-media.github.io/Report-Scale-Computing/history/2026-08-14/?access=__AVANI_ACCESS__",
+      "path": "scale/history/2026-08-14/index.html",
+      "url": "https://reports.avanimedia.com/scale/history/2026-08-14/?access=__AVANI_ACCESS__",
       "publishedAt": "2026-08-16T03:38:38.239Z",
       "title": "Scale Computing Unified Campaign Intelligence Report"
     },
     {
       "dataThrough": "2026-08-07",
       "label": "Aug 7, 2026",
-      "path": "history/2026-08-07/index.html",
-      "url": "https://avani-media.github.io/Report-Scale-Computing/history/2026-08-07/?access=__AVANI_ACCESS__",
+      "path": "scale/history/2026-08-07/index.html",
+      "url": "https://reports.avanimedia.com/scale/history/2026-08-07/?access=__AVANI_ACCESS__",
       "publishedAt": "2026-08-13T20:45:02.285Z",
       "title": "Scale Computing Unified Campaign Intelligence Report"
     }
