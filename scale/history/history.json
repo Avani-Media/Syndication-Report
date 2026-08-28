@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-28T19:21:28.532Z",
+  "updatedAt": "2026-08-28T19:25:23.466Z",
   "latest": {
-    "dataThrough": "2026-08-27",
-    "label": "Aug 27, 2026",
+    "dataThrough": "2026-08-28",
+    "label": "Aug 28, 2026",
     "url": "https://reports.avanimedia.com/scale/"
   },
   "reports": [
@@ -12,7 +12,7 @@
       "label": "Aug 28, 2026",
       "path": "scale/history/2026-08-28/index.html",
       "url": "https://reports.avanimedia.com/scale/history/2026-08-28/",
-      "publishedAt": "2026-08-28T13:36:06.179Z",
+      "publishedAt": "2026-08-28T19:25:23.466Z",
       "title": "Scale Computing Unified Campaign Intelligence Report"
     },
     {
